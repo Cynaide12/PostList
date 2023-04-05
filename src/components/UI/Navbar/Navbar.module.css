@@ -1,0 +1,15 @@
+.navbar {
+  height: 50px;
+  width: 100vw;
+  max-width: 100vw;
+  display: flex;
+  align-items: center; 
+  justify-content: space-around;
+  background-color: lightgray;
+}
+.navbar__links{
+color:red;
+width:200px;
+display:flex;
+justify-content: space-around;
+}
